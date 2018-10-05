@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# check
-
 # Create folder/remove old data
 folder="Graphs"
 if [ -e $folder ]; then
