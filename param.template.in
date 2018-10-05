@@ -1,0 +1,4 @@
+# check
+n_start     =   100000
+n_final     =   5000000
+n_spacing   =   10000
