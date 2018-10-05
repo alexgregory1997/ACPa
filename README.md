@@ -1,4 +1,4 @@
-<> (Note, the formatted .md file can be viewed at https://github.com/alexgregory1997/ACPa)
+<!-- Note, the formatted .md file can be viewed at https://github.com/alexgregory1997/ACPa) --> 
 
 __DEPENDENCIES__ <br />
 Gfortran - Compiler <br />
