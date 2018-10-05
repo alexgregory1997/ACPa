@@ -1,14 +1,14 @@
-__DEPENDENCIES__ \
-Gfortran - Compiler \
-https://gcc.gnu.org/wiki/GFortran \
-Grace - Plotting \
-http://plasma-gate.weizmann.ac.il/Grace/ \
+__DEPENDENCIES__ <br />
+Gfortran - Compiler <br />
+https://gcc.gnu.org/wiki/GFortran <br />
+Grace - Plotting <br />
+http://plasma-gate.weizmann.ac.il/Grace/ <br />
 
-__FUNCTION__ \
-This program approximates the value of Pi using the expression provided within \
-Q0. \
+__FUNCTION__ <br />
+This program approximates the value of Pi using the expression provided within <br />
+Q0. <br />
 
-__PROGRAM__ \
+__PROGRAM__ <br />
 The program consists of 3 files:
 - approx_pi.sh
 - approxing_pi.f90
