@@ -1,13 +1,12 @@
 __DEPENDENCIES__\
 Gfortran - Compiler\
-https://gcc.gnu.org/wiki/GFortran\
-
+https://gcc.gnu.org/wiki/GFortran
 Grace - Plotting\
-http://plasma-gate.weizmann.ac.il/Grace/\
+http://plasma-gate.weizmann.ac.il/Grace/
 
 __FUNCTION__\
 This program approximates the value of Pi using the expression provided within\
-Q0.\
+Q0.
 
 __PROGRAM__\
 The program consists of 3 files:
