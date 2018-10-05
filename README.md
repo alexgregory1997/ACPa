@@ -9,13 +9,13 @@ This program approximates the value of Pi using the expression provided within
 Q0. <br />
 
 __PROGRAM__ <br />
-The program consists of 3 files: <br />
+The program consists of 3 files:
 - approx_pi.sh <br />
 - approxing_pi.f90 <br />
 - param.template.in <br />
 
 The UI for this program is the param.template.in file. Within this, the
-parameters for the program can be modified. These include: <br />
+parameters for the program can be modified. These include:
 - _n_start_   - The minimum N used to calculate an approximation of Pi <br />
 - _n_final_   - The maximum N used to calculate an approximation of Pi <br />
 - _n_spacing_ - The spacing between values of N to calculate. For example, if
