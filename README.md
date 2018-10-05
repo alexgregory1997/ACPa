@@ -16,8 +16,8 @@ The program consists of 3 files: <br />
 
 The UI for this program is the param.template.in file. Within this, the <br />
 parameters for the program can be modified. These include: <br />
-- _n_start_&npsp;  &npsp;  &npsp;  &npsp; - The minimum N used to calculate an approximation of Pi <br />
-- _n_final_&npsp; &npsp; &npsp; - The maximum N used to calculate an approximation of Pi <br />
+- _n_start_   - The minimum N used to calculate an approximation of Pi <br />
+- _n_final_   - The maximum N used to calculate an approximation of Pi <br />
 - _n_spacing_ - The spacing between values of N to calculate. For example, if <br />
                 _n_start_ = 5, _n_final_ = 100 and _n_spacing_ = 5, then the <br />
                 program will calculate an approximation for Pi for N=5,10,...,100. <br />
